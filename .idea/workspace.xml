@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d7b7388f-2112-4c4d-b3f8-d54570cf3841" name="Changes" comment="校园商家点评1.0" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="NewLua" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;tanzenan11&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/tanzenan11/CampusMerchantReview.git&quot;,
+    &quot;accountId&quot;: &quot;2f32f632-8d37-41fc-8373-d79dbbde4c7b&quot;
+  }
+}</component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupGrunt">
+      <scroll-view-position x="0" y="0" />
+    </layout>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="customMavenHome" value="E:\develop\apache-maven-3.9.6" />
+        <option name="mavenHomeTypeForPersistence" value="CUSTOM" />
+        <option name="userSettingsFile" value="E:\develop\apache-maven-3.9.6\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2k6kJKM5cQgJEVm3OIKrMNeCAaK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JUnit.HmDianPingApplicationTests.testIdWork.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.HmDianPingApplicationTests.testSaveShop.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RedisStressTest.createLoginUserToken.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RedissonTest.method1.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.VoucherOrderControllerTest.createToken.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.VoucherOrderControllerTest.login (1).executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.VoucherOrderControllerTest.login.executor&quot;: &quot;Run&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.HmDianPingApplication 2.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.HmDianPingApplication.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/SchoolMerchantReview&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql_aurora_aws&quot;
+    ]
+  }
+}</component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.hmdp" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\heimadianpingCode\hm-dianping\src\main\resources" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.hmdp" />
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.RedissonTest.method1">
+    <configuration name="RedissonTest.method1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CampusMerchantReview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hmdp" />
+      <option name="MAIN_CLASS_NAME" value="com.cmr.RedissonTest" />
+      <option name="METHOD_NAME" value="method1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VoucherOrderControllerTest.createToken" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CampusMerchantReview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cmr.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hmdp" />
+      <option name="MAIN_CLASS_NAME" value="com.cmr.VoucherOrderControllerTest" />
+      <option name="METHOD_NAME" value="createToken" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VoucherOrderControllerTest.login" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CampusMerchantReview" />
+      <option name="PACKAGE_NAME" value="com.hmdp" />
+      <option name="MAIN_CLASS_NAME" value="com.cmr.VoucherOrderControllerTest" />
+      <option name="METHOD_NAME" value="login" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="SchoolMerchantReview" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="SchoolMerchantReview" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DianPingApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="CampusMerchantReview" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cmr.DianPingApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HmDianPingApplication 2" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="CampusMerchantReview" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cmr.DianPingApplication" />
+      <option name="VM_PARAMETERS" value="-Dserver.port=8082" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.VoucherOrderControllerTest.createToken" />
+        <item itemvalue="JUnit.RedissonTest.method1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d7b7388f-2112-4c4d-b3f8-d54570cf3841" name="Changes" comment="" />
+      <created>1722611340996</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1722611340996</updated>
+      <workItem from="1722611342121" duration="1494000" />
+      <workItem from="1722649324096" duration="5718000" />
+      <workItem from="1722657163354" duration="1881000" />
+      <workItem from="1722753121045" duration="21613000" />
+      <workItem from="1722818615577" duration="28471000" />
+      <workItem from="1722871034067" duration="489000" />
+      <workItem from="1722905324751" duration="4120000" />
+      <workItem from="1722910291802" duration="20307000" />
+      <workItem from="1722956363697" duration="607000" />
+      <workItem from="1722993113812" duration="11738000" />
+      <workItem from="1723016217385" duration="2113000" />
+      <workItem from="1723022948295" duration="891000" />
+      <workItem from="1723026510264" duration="479000" />
+      <workItem from="1723032599248" duration="2111000" />
+      <workItem from="1723102485947" duration="863000" />
+      <workItem from="1723104297275" duration="622000" />
+      <workItem from="1723131350015" duration="7000" />
+      <workItem from="1723200032680" duration="1880000" />
+      <workItem from="1723203793320" duration="250000" />
+      <workItem from="1723447843940" duration="542000" />
+      <workItem from="1723648292475" duration="1410000" />
+      <workItem from="1723684025748" duration="68000" />
+      <workItem from="1723777561759" duration="40000" />
+      <workItem from="1723781093192" duration="13000" />
+      <workItem from="1723781464823" duration="3000" />
+      <workItem from="1723987452979" duration="658000" />
+      <workItem from="1723993079014" duration="1049000" />
+      <workItem from="1723994194294" duration="269000" />
+      <workItem from="1723994560679" duration="87000" />
+      <workItem from="1723994677295" duration="12000" />
+    </task>
+    <task id="LOCAL-00001" summary="第一次上传">
+      <option name="closed" value="true" />
+      <created>1722655729519</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1722655729519</updated>
+    </task>
+    <task id="LOCAL-00002" summary="验证码登录业务">
+      <option name="closed" value="true" />
+      <created>1722764591348</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1722764591348</updated>
+    </task>
+    <task id="LOCAL-00003" summary="验证码登录业务 关于用户有效期刷新完善">
+      <option name="closed" value="true" />
+      <created>1722765542126</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1722765542126</updated>
+    </task>
+    <task id="LOCAL-00004" summary="店铺类别以及店铺信息缓存">
+      <option name="closed" value="true" />
+      <created>1722773967320</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1722773967320</updated>
+    </task>
+    <task id="LOCAL-00005" summary="利用null值缓存解决缓存穿透">
+      <option name="closed" value="true" />
+      <created>1722779949614</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1722779949614</updated>
+    </task>
+    <task id="LOCAL-00006" summary="redis工具类封装，解决缓存穿透以及缓存击穿">
+      <option name="closed" value="true" />
+      <created>1722829263228</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1722829263229</updated>
+    </task>
+    <task id="LOCAL-00007" summary="通过redis自增实现订单的唯一ID">
+      <option name="closed" value="true" />
+      <created>1722844836341</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1722844836341</updated>
+    </task>
+    <task id="LOCAL-00008" summary="通过cas解决超卖问题">
+      <option name="closed" value="true" />
+      <created>1722852888746</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1722852888746</updated>
+    </task>
+    <task id="LOCAL-00009" summary="通过悲观锁和事务解决一人一单问题">
+      <option name="closed" value="true" />
+      <created>1722860393197</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1722860393197</updated>
+    </task>
+    <task id="LOCAL-00010" summary="自定义分布式锁解决集群模式下一人一单问题">
+      <option name="closed" value="true" />
+      <created>1722911753801</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1722911753801</updated>
+    </task>
+    <task id="LOCAL-00011" summary="异步模式实现一人一单进行改进">
+      <option name="closed" value="true" />
+      <created>1722952000687</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1722952000687</updated>
+    </task>
+    <task id="LOCAL-00012" summary="利用redis bitMap实现用户签到以及用户统计">
+      <option name="closed" value="true" />
+      <created>1723016049720</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1723016049720</updated>
+    </task>
+    <task id="LOCAL-00013" summary="校园商家点评1.0">
+      <option name="closed" value="true" />
+      <created>1723016323196</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1723016323196</updated>
+    </task>
+    <task id="LOCAL-00014" summary="校园商家点评1.0">
+      <option name="closed" value="true" />
+      <created>1723026730537</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1723026730537</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+        <option value="GitHub.CommitStatus" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../hmgit" />
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="第一次上传" />
+    <MESSAGE value="验证码登录业务" />
+    <MESSAGE value="验证码登录业务 关于用户有效期刷新完善" />
+    <MESSAGE value="店铺类别以及店铺信息缓存" />
+    <MESSAGE value="利用null值缓存解决缓存穿透" />
+    <MESSAGE value="redis工具类封装，解决缓存穿透以及缓存击穿" />
+    <MESSAGE value="通过redis自增实现订单的唯一ID" />
+    <MESSAGE value="通过cas解决超卖问题" />
+    <MESSAGE value="通过悲观锁和事务解决一人一单问题" />
+    <MESSAGE value="自定义分布式锁解决集群模式下一人一单问题" />
+    <MESSAGE value="异步模式实现一人一单进行改进" />
+    <MESSAGE value="利用redis bitMap实现用户签到以及用户统计" />
+    <MESSAGE value="校园商家点评1.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="校园商家点评1.0" />
+  </component>
+</project>
