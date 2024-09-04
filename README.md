@@ -1,27 +1,15 @@
- Project Introduction
+技术架构：SpringBoot + Spring+ SpringMvc + Redis + MySQL +  RabbitMQ 
 
-This platform provides an interactive communication space for campus students and merchants, which not only helps users to fully understand the merchants on campus, but also introduces the function of merchant coupon seconds, which is convenient for students to flexibly choose the right merchants. At the same time, the platform also provides merchants with more exposure and profit channels.
+项目描述：这个平台为校园同学和商户提供了一个互动的交流空间，不仅帮助用户全面了解校园内的商户，还推出了商户优惠券秒杀功能，方便同学灵活选择合适的商户。与此同时，平台也为商户提供了更多的曝光机会和盈利渠道。
 
- Main Functions
+亮点
 
-1. Login Registration:
-   - Use Redis to store the authentication code and token.
-   - User authentication is accomplished through customized interceptors, and double interceptors are used to solve the token refreshing problem.
-2. user rights saving:
-   - Use ThreadLocal with interceptor for token verification to determine whether the user is in the login state.
-   - To solve the problem of HTTP statelessness and to ensure that the server can remember the user's information. 3.
-3. cache consistency issues:
-   - In-depth understanding of common solutions to cache consistency problems.
-   - Use active update + timeout rejection cache update program in the system to meet the higher data consistency requirements.
-4. second coupon:
-   - Solve the inventory overselling problem by optimistic locking.
-   - Use Redisson distributed locks to solve the one-person-one-order problem.
-5. second kill performance optimization:
-   - Use message queues (such as RabbitMQ) and Lua scripts to implement asynchronous processing of the ordering process.
-   - Change the synchronous order to asynchronous order, optimize the second kill business process, the average time consumed from more than 400 milliseconds to more than 100 milliseconds.
-6. statistical check-in:
-   - Use Redis Bitmap data type for check-in and statistics function.
-   - Compared with the MySQL storage method, it saves more memory space.
- Solutions
-- The solution to the cache penetration and cache hit problems:
-  - Use cache update policies and protection measures to ensure the efficiency and stability of the cache.
+登录注册:使用Redis实现验证码、token的存储，用自定义拦截器完成用户认证、并使用双重拦截器解决token刷新问题
+用户权限的保存:通过Threadloca|配合拦截器来进行token的校验，判断当前用户是否处于登录状态，并解决了HTTP无状态的问题，达到服务器记住用户信息的效果
+缓存一致性问题:深入了解缓存一致性问默的常用解决方案，并在系统中采用主动更新+超时剔除的缓存更新方案
+秒杀优惠券:乐现锁解决库存超卖问题，使用Redisson分布式锁解决一人一单问题
+秒承性能优化:mq消息队列+lua脚本实现异步处理下单流程，将同步下单改为异步下单，优化了秒杀业务的流程，平均耗时从300多ms降低到80多ms
+统计签到:使用redis的bitmap数据类型，进行当日签到功能，提高并发性能
+使用Redis作为缓存，缓存穿透、缓存击穿问题的落地解决，了解其他对于缓存击穿、穿透以及雪崩的解决方案
+
+各位假如对代码有一些问题欢迎交流呀，一起进步！！
